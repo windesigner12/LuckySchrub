@@ -1,0 +1,134 @@
+
+
+body{
+
+    background-color: #EDEFEE;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.logo{
+    margin: 10%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 30%;
+    
+}
+
+.container .row{
+
+    margin-top: 10px;
+    margin-bottom: 45px;
+    padding: auto;
+
+}
+
+h1 {
+
+    font-size: 3rem;
+}
+
+h5 {
+
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 10px;
+    color: #26877f;
+}
+
+nav ul {
+
+    list-style: none;
+    text-align: center;
+    background-color: #26877f;
+    border-radius: 5px;
+    color: #EDEFEE;
+    height: 7%;
+}
+
+nav li {
+
+    display: inline-block;
+    color: #EDEFEE;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+a {
+    color: #EDEFEE;
+}
+
+.row .col-sm a {
+    color: #26877f;
+}
+
+header > img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    display: flex;
+}
+
+article{
+
+    flex: 1;
+}
+
+footer{
+    display: flex;
+    background-color: #26877f;
+    border-radius: 10px;
+}
+
+footer div {
+
+    flex: 1;
+
+}
+
+
+.cornerRadius{
+    border-radius: 5px;
+}
+
+.serviceImag{
+
+    border-radius: 7px;
+    width: 100%;
+    height: 50%;
+
+}
+
+
+hr{
+    width: 30%;
+    border-color: green;
+    border-style:dashed;
+}
+
+.col-sm p {
+    text-align: justify;
+    font-size: x-small;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.footerLogo{
+
+    width: 50px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+
+}
