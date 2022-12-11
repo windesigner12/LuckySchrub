@@ -10,6 +10,8 @@ Lucky Shrub was started by a husband and wife team, Jason and Maria, who share a
 
 
 
-This is the Demo project for for my HTML Portfolio!
+This is the Demo project for for my HTML Portfolio! 
+
+Meta Frotend Developer!
 
 Winshelo ST LOUIS!!!
